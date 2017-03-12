@@ -35,7 +35,7 @@ gem 'devise'
 gem 'cancancan'
 gem 'delayed_job_active_record'
 gem 'simple_form'
-
+gem "haml-rails", "~> 0.9"
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
